@@ -1,5 +1,7 @@
 # PEC 2: Estudio de Técnicas de Visualización
 
+###  **Enlace al portal de visualizaciones: https://kiniuoc.github.io/PEC-2/**
+
 Este repositorio contiene la entrega de la Práctica de Evaluación Continua 2 (PEC 2) para la asignatura **M2.859 | [cite_start]Visualización de Datos** del Máster de Ciencia de Datos de la UOC[cite: 2413].
 
 ## Objetivo de la Práctica
