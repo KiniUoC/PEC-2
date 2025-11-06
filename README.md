@@ -23,7 +23,10 @@ Este proyecto (alojado en GitHub Pages) sirve como portal unificado para las tre
 ### 1. Técnica (Grupo I): Gráfico de Área (Area Chart)
 
 * **Descripción:** Un gráfico de área utilizado para mostrar la evolución del volumen de una variable cuantitativa a lo largo del tiempo.
-* **Caso de Uso:** Visualización de la evolución del consumo de energía renovable en España (Datos: Our World in Data).
+* **Fuente de Datos:** Our World in Data.
+    * *Dataset Específico:* [Share of Primary Energy Consumption from Renewable Sources](https://ourworldindata.org/renewable-energy).
+
+* **Caso de Uso:** Visualización de la evolución del consumo de energía renovable en España 
 * **Herramienta:** Flourish.
 * **Enlace:** **https://public.flourish.studio/story/3422275/**
 
@@ -32,7 +35,9 @@ Este proyecto (alojado en GitHub Pages) sirve como portal unificado para las tre
 ### 2. Técnica (Grupo II) : Diagrama de Gantt
 
 * **Descripción:** Un tipo de gráfico de barras que ilustra el cronograma de un proyecto, mostrando la duración y solapamiento de las tareas.
-* **Caso de Uso:** Planificación de las fases y tareas de este mismo proyecto (Datos: Propios).
+* * **Fuente de Datos:** Datos Propios.
+    * *Dataset Específico:* Se ha creado un dataset ficticio para representar las fases de este proyecto de la PEC 2, cumpliendo con el requisito de "datos escogidos libremente".
+* **Caso de Uso:** Planificación de las fases y tareas de este mismo proyecto.
 * **Herramienta:** Tableau Public.
 * **Enlace:** **https://public.tableau.com/app/profile/xavier.cort.s.mars./viz/PEC2-DiagramaGantt_Xavier_CM/PEC2DiagramadeGantt?publish=yes**
 
@@ -41,7 +46,9 @@ Este proyecto (alojado en GitHub Pages) sirve como portal unificado para las tre
 ### 3. Técnica (Grupo III): Gráfico de Horizonte (Horizon Graph)
 
 * **Descripción:** Una técnica avanzada para visualizar múltiples series temporales en un espacio compacto, resolviendo el problema del "gráfico de espagueti".
-* **Caso de Uso:** Comparación de la evolución de emisiones de CO2 per cápita en 6 regiones/países (Datos: World Bank).
+* **Fuente de Datos:** World Bank Open Data.
+    * *Dataset Específico:* [CO2 emissions (metric tons per capita)](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC).
+* **Caso de Uso:** Comparación de la evolución de emisiones de CO2 per cápita en 6 regiones/países 
 * **Herramienta:** R (ggplot2 + ggHoriPlot) y GitHub Pages.
 * **Visualización:**
     ![Gráfico de Horizonte de Emisiones de CO2](horizon_plot.png)
